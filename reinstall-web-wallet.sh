@@ -9,7 +9,7 @@ cp -r web-wallet "$BACKUP_FOLDER"
 rm -rf web-wallet
 
 # Clone
-git clone git@github.com:privatesky/web-wallet.git
+git clone https://github.com/privatesky/web-wallet.git
 cd web-wallet
 
 # Install dependencies
